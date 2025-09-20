@@ -7,13 +7,22 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "tsc": "tsc",
+    "tsx": "npx tsx src/index.ts"
   },
   "dependencies": {
     "@types/leaflet": "^1.9.20",
+    "@vue-leaflet/vue-leaflet": "^0.10.1",
     "leaflet": "^1.9.4",
     "nuxt": "^4.1.1",
     "vue": "^3.5.21",
     "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@types/geojson": "^7946.0.16",
+    "tsc": "^2.0.4",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
   }
 }

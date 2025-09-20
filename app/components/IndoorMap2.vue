@@ -26,7 +26,7 @@
 import { onMounted, onUnmounted, ref, watch } from 'vue';
 import 'leaflet/dist/leaflet.css';
 // GeoJSONデータを直接インポート
-import indoorMapGeoJson from '../../assets/data/indoor-map2.json';
+import indoorMapGeoJson from '../../assets/data/auto_generated.json';
 
 // Leafletマップインスタンスを保持する変数
 let mapInstance: L.Map | null = null;
@@ -59,8 +59,8 @@ const updateMap = async (floor: number) => {
 
   geoJsonLayer = L.geoJSON(floorGeoJson as any, {
     style: (feature) => {
-      switch (feature?.properties.type) {
-        case 'classroom':
+      switch (feature?.properties.category) {
+        case '施設':
         case 'laboratory':
         case 'meeting_room':
           return { color: '#4a90e2', weight: 1, fillColor: '#4a90e2', fillOpacity: 0.5 };

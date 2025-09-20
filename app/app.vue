@@ -1,5 +1,5 @@
 <template>
   <div>
-    <IndoorMap2 />
+    <IndoorMap4 />
   </div>
 </template>
