@@ -8,6 +8,1110 @@
         "coordinates": [
           [
             [
+              227,
+              701
+            ],
+            [
+              436.25270758122747,
+              701
+            ],
+            [
+              436.25270758122747,
+              254
+            ],
+            [
+              505,
+              254
+            ],
+            [
+              505,
+              163
+            ],
+            [
+              227,
+              163
+            ],
+            [
+              227,
+              701
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "外枠1",
+        "category": "枠",
+        "floor": "Frame 52",
+        "figmaNodeName": "外枠1,枠"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              401.5,
+              321.5
+            ],
+            [
+              422.5,
+              321.5
+            ],
+            [
+              422.5,
+              300.5
+            ],
+            [
+              401.5,
+              300.5
+            ],
+            [
+              401.5,
+              321.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 52",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              400.5,
+              273.5
+            ],
+            [
+              421.5,
+              273.5
+            ],
+            [
+              421.5,
+              252.5
+            ],
+            [
+              400.5,
+              252.5
+            ],
+            [
+              400.5,
+              273.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 52",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              252.5
+            ],
+            [
+              388.5,
+              252.5
+            ],
+            [
+              388.5,
+              234.5
+            ],
+            [
+              365.5,
+              234.5
+            ],
+            [
+              365.5,
+              252.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 52",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              400.5,
+              287.5
+            ],
+            [
+              421.5,
+              287.5
+            ],
+            [
+              421.5,
+              273.5
+            ],
+            [
+              400.5,
+              273.5
+            ],
+            [
+              400.5,
+              287.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 52",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              396.5,
+              234.5
+            ],
+            [
+              437,
+              234.5
+            ],
+            [
+              437,
+              253.5
+            ],
+            [
+              504.5,
+              253.5
+            ],
+            [
+              504.5,
+              163
+            ],
+            [
+              365.5,
+              163
+            ],
+            [
+              365.5,
+              187.5
+            ],
+            [
+              396.5,
+              187.5
+            ],
+            [
+              396.5,
+              234.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "厨房",
+        "category": "その他",
+        "floor": "Frame 52",
+        "figmaNodeName": "厨房,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              275
+            ],
+            [
+              400.5,
+              275
+            ],
+            [
+              400.5,
+              252.5
+            ],
+            [
+              365.5,
+              252.5
+            ],
+            [
+              365.5,
+              275
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "学科室",
+        "category": "その他",
+        "floor": "Frame 52",
+        "figmaNodeName": "学科室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              401,
+              678
+            ],
+            [
+              422,
+              678
+            ],
+            [
+              422,
+              634
+            ],
+            [
+              401,
+              634
+            ],
+            [
+              401,
+              678
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 52",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              401,
+              634
+            ],
+            [
+              422,
+              634
+            ],
+            [
+              422,
+              567.5
+            ],
+            [
+              401,
+              567.5
+            ],
+            [
+              401,
+              634
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 52",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              401.5,
+              433.5
+            ],
+            [
+              422.5,
+              433.5
+            ],
+            [
+              422.5,
+              367.5
+            ],
+            [
+              401.5,
+              367.5
+            ],
+            [
+              401.5,
+              433.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 52",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              402.5,
+              548.5
+            ],
+            [
+              402.5,
+              524
+            ],
+            [
+              365.5,
+              524
+            ],
+            [
+              365.5,
+              548.5
+            ],
+            [
+              402.5,
+              548.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 52",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              402.5,
+              548.5
+            ],
+            [
+              422.5,
+              548.5
+            ],
+            [
+              422.5,
+              519.5
+            ],
+            [
+              402.5,
+              519.5
+            ],
+            [
+              402.5,
+              548.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 52",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              401.5,
+              498.5
+            ],
+            [
+              422.5,
+              498.5
+            ],
+            [
+              422.5,
+              433.5
+            ],
+            [
+              401.5,
+              433.5
+            ],
+            [
+              401.5,
+              498.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 52",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              524
+            ],
+            [
+              365.5,
+              498.5
+            ],
+            [
+              387.5,
+              498.5
+            ],
+            [
+              387.5,
+              524
+            ],
+            [
+              365.5,
+              524
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 52",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              303,
+              701
+            ],
+            [
+              365,
+              701
+            ],
+            [
+              365,
+              564
+            ],
+            [
+              303,
+              564
+            ],
+            [
+              303,
+              701
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "スタジオ",
+        "category": "その他",
+        "floor": "Frame 52",
+        "figmaNodeName": "スタジオ,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              298.5,
+              501.5
+            ],
+            [
+              365.5,
+              501.5
+            ],
+            [
+              365.5,
+              297.5
+            ],
+            [
+              299,
+              297.5
+            ],
+            [
+              298.5,
+              501.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "スタジオ中央",
+        "category": "その他",
+        "floor": "Frame 52",
+        "figmaNodeName": "スタジオ中央,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              321.5
+            ],
+            [
+              401.5,
+              321.5
+            ],
+            [
+              401.5,
+              300.5
+            ],
+            [
+              365.5,
+              300.5
+            ],
+            [
+              365.5,
+              321.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室122",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室122,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              344.5
+            ],
+            [
+              401.5,
+              344.5
+            ],
+            [
+              401.5,
+              321.5
+            ],
+            [
+              365.5,
+              321.5
+            ],
+            [
+              365.5,
+              344.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室123",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室123,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              367.5
+            ],
+            [
+              401.5,
+              367.5
+            ],
+            [
+              401.5,
+              344.5
+            ],
+            [
+              365.5,
+              344.5
+            ],
+            [
+              365.5,
+              367.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室124",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室124,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              388.5
+            ],
+            [
+              401.5,
+              388.5
+            ],
+            [
+              401.5,
+              367.5
+            ],
+            [
+              365.5,
+              367.5
+            ],
+            [
+              365.5,
+              388.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室125",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室125,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              411
+            ],
+            [
+              401.5,
+              411
+            ],
+            [
+              401.5,
+              389
+            ],
+            [
+              365.5,
+              389
+            ],
+            [
+              365.5,
+              411
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室126",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室126,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              433.5
+            ],
+            [
+              401.5,
+              433.5
+            ],
+            [
+              401.5,
+              411.5
+            ],
+            [
+              365.5,
+              411.5
+            ],
+            [
+              365.5,
+              433.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室127",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室127,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              455
+            ],
+            [
+              401.5,
+              455
+            ],
+            [
+              401.5,
+              434
+            ],
+            [
+              365.5,
+              434
+            ],
+            [
+              365.5,
+              455
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室128",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室128,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              476.5
+            ],
+            [
+              401.5,
+              476.5
+            ],
+            [
+              401.5,
+              455.5
+            ],
+            [
+              365.5,
+              455.5
+            ],
+            [
+              365.5,
+              476.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室129",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室129,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              498.5
+            ],
+            [
+              401.5,
+              498.5
+            ],
+            [
+              401.5,
+              477.5
+            ],
+            [
+              365.5,
+              477.5
+            ],
+            [
+              365.5,
+              498.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室130",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室130,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365,
+              589
+            ],
+            [
+              401,
+              589
+            ],
+            [
+              401,
+              567
+            ],
+            [
+              365,
+              567
+            ],
+            [
+              365,
+              589
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室131",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室131,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365,
+              611
+            ],
+            [
+              401,
+              611
+            ],
+            [
+              401,
+              589
+            ],
+            [
+              365,
+              589
+            ],
+            [
+              365,
+              611
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室132",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室132,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365,
+              634
+            ],
+            [
+              401,
+              634
+            ],
+            [
+              401,
+              611
+            ],
+            [
+              365,
+              611
+            ],
+            [
+              365,
+              634
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室133",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室133,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365,
+              655
+            ],
+            [
+              401,
+              655
+            ],
+            [
+              401,
+              634
+            ],
+            [
+              365,
+              634
+            ],
+            [
+              365,
+              655
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室134",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室134,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365,
+              678
+            ],
+            [
+              401,
+              678
+            ],
+            [
+              401,
+              655
+            ],
+            [
+              365,
+              655
+            ],
+            [
+              365,
+              678
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室135",
+        "category": "教員室",
+        "floor": "Frame 52",
+        "figmaNodeName": "教員室135,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               333.5,
               287.5
             ],
@@ -44,41 +1148,41 @@
         "coordinates": [
           [
             [
-              228.5,
-              701.5
+              227,
+              234.5
             ],
             [
-              437,
-              701.5
+              396.5,
+              234.5
             ],
             [
-              437,
-              254.5
+              396.5,
+              187.5
             ],
             [
-              505.5,
-              254.5
+              365.5,
+              187.5
             ],
             [
-              505.5,
-              163.5
+              365.5,
+              163
             ],
             [
-              228.5,
-              163.5
+              227,
+              163
             ],
             [
-              228.5,
-              701.5
+              227,
+              234.5
             ]
           ]
         ]
       },
       "properties": {
-        "name": "外枠1",
-        "category": "枠",
+        "name": "食堂",
+        "category": "施設",
         "floor": "Frame 52",
-        "figmaNodeName": "外枠1,枠"
+        "figmaNodeName": "食堂,施設"
       }
     },
     {
@@ -88,24 +1192,24 @@
         "coordinates": [
           [
             [
-              230,
-              567
+              227,
+              564
             ],
             [
-              302.5,
-              567
+              303,
+              564
             ],
             [
-              302.5,
-              700
+              303,
+              701
             ],
             [
-              230,
-              700
+              227,
+              701
             ],
             [
-              230,
-              567
+              227,
+              564
             ]
           ]
         ]
@@ -115,6 +1219,474 @@
         "category": "教室",
         "floor": "Frame 52",
         "figmaNodeName": "アトリエ,教室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              227,
+              706
+            ],
+            [
+              504,
+              706
+            ],
+            [
+              504,
+              161
+            ],
+            [
+              227,
+              161
+            ],
+            [
+              227,
+              706
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "外枠2",
+        "category": "枠",
+        "floor": "Frame 53",
+        "figmaNodeName": "外枠2,枠"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              431.5,
+              344.5
+            ],
+            [
+              468.5,
+              344.5
+            ],
+            [
+              468.5,
+              322
+            ],
+            [
+              431.5,
+              322
+            ],
+            [
+              431.5,
+              344.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室223",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室223,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              431.5,
+              322
+            ],
+            [
+              468.5,
+              322
+            ],
+            [
+              468.5,
+              300.5
+            ],
+            [
+              431.5,
+              300.5
+            ],
+            [
+              431.5,
+              322
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室222",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室222,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              431.5,
+              367.5
+            ],
+            [
+              468.5,
+              367.5
+            ],
+            [
+              468.5,
+              344.5
+            ],
+            [
+              431.5,
+              344.5
+            ],
+            [
+              431.5,
+              367.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室224",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室224,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              431.5,
+              434.5
+            ],
+            [
+              468.5,
+              434.5
+            ],
+            [
+              468.5,
+              411.5
+            ],
+            [
+              431.5,
+              411.5
+            ],
+            [
+              431.5,
+              434.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室227",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室227,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              431.5,
+              411.5
+            ],
+            [
+              468.5,
+              411.5
+            ],
+            [
+              468.5,
+              389
+            ],
+            [
+              431.5,
+              389
+            ],
+            [
+              431.5,
+              411.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室226",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室226,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              431.5,
+              389
+            ],
+            [
+              468.5,
+              389
+            ],
+            [
+              468.5,
+              367.5
+            ],
+            [
+              431.5,
+              367.5
+            ],
+            [
+              431.5,
+              389
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室225",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室225,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              431.5,
+              478
+            ],
+            [
+              468.5,
+              478
+            ],
+            [
+              468.5,
+              455.5
+            ],
+            [
+              431.5,
+              455.5
+            ],
+            [
+              431.5,
+              478
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室229",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室229,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              431.5,
+              455.5
+            ],
+            [
+              468.5,
+              455.5
+            ],
+            [
+              468.5,
+              434.5
+            ],
+            [
+              431.5,
+              434.5
+            ],
+            [
+              431.5,
+              455.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室228",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室228,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              432.5,
+              502.5
+            ],
+            [
+              468.5,
+              502.5
+            ],
+            [
+              468.5,
+              478
+            ],
+            [
+              432.5,
+              478
+            ],
+            [
+              432.5,
+              502.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室230",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室230,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              432.5,
+              518.5
+            ],
+            [
+              455.5,
+              518.5
+            ],
+            [
+              455.5,
+              502.5
+            ],
+            [
+              432.5,
+              502.5
+            ],
+            [
+              432.5,
+              518.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 53",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              469.5,
+              549.5
+            ],
+            [
+              490.5,
+              549.5
+            ],
+            [
+              490.5,
+              518.5
+            ],
+            [
+              469.5,
+              518.5
+            ],
+            [
+              469.5,
+              549.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 53",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              359.5,
+              517
+            ],
+            [
+              408.5,
+              517
+            ],
+            [
+              408.5,
+              502
+            ],
+            [
+              359.5,
+              502
+            ],
+            [
+              359.5,
+              517
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 53",
+        "figmaNodeName": "階段,階段"
       }
     },
     {
@@ -160,33 +1732,33 @@
         "coordinates": [
           [
             [
-              227.5,
-              707.5
+              359.5,
+              699
             ],
             [
-              504.5,
-              707.5
+              432,
+              699
             ],
             [
-              504.5,
-              161.5
+              432,
+              565.5
             ],
             [
-              227.5,
-              161.5
+              359.5,
+              565.5
             ],
             [
-              227.5,
-              707.5
+              359.5,
+              699
             ]
           ]
         ]
       },
       "properties": {
-        "name": "外枠2",
-        "category": "枠",
+        "name": "スタジオ",
+        "category": "その他",
         "floor": "Frame 53",
-        "figmaNodeName": "外枠2,枠"
+        "figmaNodeName": "スタジオ,その他"
       }
     },
     {
@@ -196,7 +1768,259 @@
         "coordinates": [
           [
             [
-              360,
+              432,
+              590
+            ],
+            [
+              468.5,
+              590
+            ],
+            [
+              468.5,
+              568.5
+            ],
+            [
+              432,
+              568.5
+            ],
+            [
+              432,
+              590
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室231",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室231,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              359.5,
+              565.5
+            ],
+            [
+              359.5,
+              517
+            ],
+            [
+              432.5,
+              517
+            ],
+            [
+              432.5,
+              565.5
+            ],
+            [
+              359.5,
+              565.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ラウンジ",
+        "category": "その他",
+        "floor": "Frame 53",
+        "figmaNodeName": "ラウンジ,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              469.5,
+              549.5
+            ],
+            [
+              469.5,
+              518.5
+            ],
+            [
+              432.5,
+              518.5
+            ],
+            [
+              432.5,
+              549.5
+            ],
+            [
+              469.5,
+              549.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 53",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              432.5,
+              612.5
+            ],
+            [
+              468.5,
+              612.5
+            ],
+            [
+              468.5,
+              590
+            ],
+            [
+              432.5,
+              590
+            ],
+            [
+              432.5,
+              612.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室232",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室232,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              432.5,
+              635
+            ],
+            [
+              468.5,
+              635
+            ],
+            [
+              468.5,
+              612.5
+            ],
+            [
+              432.5,
+              612.5
+            ],
+            [
+              432.5,
+              635
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室233",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室233,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              432.5,
+              657
+            ],
+            [
+              468.5,
+              657
+            ],
+            [
+              468.5,
+              635
+            ],
+            [
+              432.5,
+              635
+            ],
+            [
+              432.5,
+              657
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室234",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室234,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              432.5,
+              679.5
+            ],
+            [
+              468.5,
+              679.5
+            ],
+            [
+              468.5,
+              657
+            ],
+            [
+              432.5,
+              657
+            ],
+            [
+              432.5,
+              679.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室235",
+        "category": "教員室",
+        "floor": "Frame 53",
+        "figmaNodeName": "教員室235,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              359.5,
               502
             ],
             [
@@ -205,14 +2029,14 @@
             ],
             [
               431.5,
-              298
+              297
             ],
             [
-              360,
-              298
+              359.5,
+              297
             ],
             [
-              360,
+              359.5,
               502
             ]
           ]
@@ -223,6 +2047,2246 @@
         "category": "その他",
         "floor": "Frame 53",
         "figmaNodeName": "スタジオ,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              468.5,
+              502.5
+            ],
+            [
+              490.5,
+              502.5
+            ],
+            [
+              490.5,
+              434.5
+            ],
+            [
+              469,
+              434.5
+            ],
+            [
+              468.5,
+              502.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 53",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              468.5,
+              434.5
+            ],
+            [
+              490.5,
+              434.5
+            ],
+            [
+              490.5,
+              367.5
+            ],
+            [
+              468.5,
+              367.5
+            ],
+            [
+              468.5,
+              434.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 53",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              468.5,
+              367.5
+            ],
+            [
+              490.5,
+              367.5
+            ],
+            [
+              490.5,
+              322
+            ],
+            [
+              468.5,
+              322
+            ],
+            [
+              468.5,
+              367.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 53",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              468.5,
+              322
+            ],
+            [
+              490.5,
+              322
+            ],
+            [
+              490.5,
+              300.5
+            ],
+            [
+              468.5,
+              300.5
+            ],
+            [
+              468.5,
+              322
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 53",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              432.5,
+              275.5
+            ],
+            [
+              468.5,
+              275.5
+            ],
+            [
+              468.5,
+              250.5
+            ],
+            [
+              432.5,
+              250.5
+            ],
+            [
+              432.5,
+              275.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "学科室",
+        "category": "その他",
+        "floor": "Frame 53",
+        "figmaNodeName": "学科室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              468.5,
+              287.5
+            ],
+            [
+              490.5,
+              287.5
+            ],
+            [
+              490.5,
+              273.5
+            ],
+            [
+              468.5,
+              273.5
+            ],
+            [
+              468.5,
+              287.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 53",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              468.5,
+              273.5
+            ],
+            [
+              490.5,
+              273.5
+            ],
+            [
+              490.5,
+              250.5
+            ],
+            [
+              468.5,
+              250.5
+            ],
+            [
+              468.5,
+              273.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 53",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              432.5,
+              250.5
+            ],
+            [
+              455.5,
+              250.5
+            ],
+            [
+              455.5,
+              234.5
+            ],
+            [
+              432.5,
+              234.5
+            ],
+            [
+              432.5,
+              250.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 53",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              359.5,
+              249.5
+            ],
+            [
+              408.5,
+              249.5
+            ],
+            [
+              408.5,
+              234.5
+            ],
+            [
+              359.5,
+              234.5
+            ],
+            [
+              359.5,
+              249.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 53",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              365.5,
+              234.5
+            ],
+            [
+              432.5,
+              234.5
+            ],
+            [
+              432.5,
+              167.5
+            ],
+            [
+              365.5,
+              167.5
+            ],
+            [
+              365.5,
+              234.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "売店",
+        "category": "施設",
+        "floor": "Frame 53",
+        "figmaNodeName": "売店,施設"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              224,
+              721
+            ],
+            [
+              933,
+              721
+            ],
+            [
+              933,
+              157
+            ],
+            [
+              224,
+              157
+            ],
+            [
+              224,
+              721
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "外枠3",
+        "category": "枠",
+        "floor": "Frame 54",
+        "figmaNodeName": "外枠3,枠"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              526,
+              554.5
+            ],
+            [
+              539.5,
+              554.5
+            ],
+            [
+              539.5,
+              551
+            ],
+            [
+              559,
+              551
+            ],
+            [
+              559,
+              547.5
+            ],
+            [
+              565.5,
+              547.5
+            ],
+            [
+              565.5,
+              526.5
+            ],
+            [
+              526,
+              526.5
+            ],
+            [
+              526,
+              554.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 54",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              543.5,
+              300.5
+            ],
+            [
+              565.5,
+              300.5
+            ],
+            [
+              565.5,
+              283.5
+            ],
+            [
+              543.5,
+              283.5
+            ],
+            [
+              543.5,
+              300.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 54",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              543.5,
+              277.5
+            ],
+            [
+              565.5,
+              277.5
+            ],
+            [
+              565.5,
+              248.5
+            ],
+            [
+              543.5,
+              248.5
+            ],
+            [
+              543.5,
+              277.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 54",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              431,
+              714.5
+            ],
+            [
+              505.5,
+              714.5
+            ],
+            [
+              505.5,
+              576
+            ],
+            [
+              431,
+              576
+            ],
+            [
+              431,
+              714.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "スタジオ",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "スタジオ,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              431,
+              576
+            ],
+            [
+              505.5,
+              576
+            ],
+            [
+              505.5,
+              526.5
+            ],
+            [
+              431,
+              526.5
+            ],
+            [
+              431,
+              576
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ラウンジ",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "ラウンジ,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              439.5,
+              556.5
+            ],
+            [
+              448.5,
+              556.5
+            ],
+            [
+              448.5,
+              541.5
+            ],
+            [
+              439.5,
+              541.5
+            ],
+            [
+              439.5,
+              556.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 54",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              447.5,
+              526.5
+            ],
+            [
+              493,
+              526.5
+            ],
+            [
+              493,
+              511.5
+            ],
+            [
+              447.5,
+              511.5
+            ],
+            [
+              447.5,
+              526.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 54",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              430.5,
+              511.5
+            ],
+            [
+              505.5,
+              511.5
+            ],
+            [
+              505.5,
+              298
+            ],
+            [
+              430.5,
+              298
+            ],
+            [
+              430.5,
+              511.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "スタジオ",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "スタジオ,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              430.5,
+              298
+            ],
+            [
+              505.5,
+              298
+            ],
+            [
+              505.5,
+              248.5
+            ],
+            [
+              430.5,
+              248.5
+            ],
+            [
+              430.5,
+              298
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ラウンジ",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "ラウンジ,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              439.5,
+              277.5
+            ],
+            [
+              448.5,
+              277.5
+            ],
+            [
+              448.5,
+              263.5
+            ],
+            [
+              439.5,
+              263.5
+            ],
+            [
+              439.5,
+              277.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 54",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              543.5,
+              647.5
+            ],
+            [
+              565.5,
+              647.5
+            ],
+            [
+              565.5,
+              578.5
+            ],
+            [
+              543.5,
+              578.5
+            ],
+            [
+              543.5,
+              647.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              543.5,
+              511.5
+            ],
+            [
+              565.5,
+              511.5
+            ],
+            [
+              565.5,
+              439
+            ],
+            [
+              543.5,
+              439
+            ],
+            [
+              543.5,
+              511.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              543.5,
+              439
+            ],
+            [
+              565.5,
+              439
+            ],
+            [
+              565.5,
+              369.5
+            ],
+            [
+              543.5,
+              369.5
+            ],
+            [
+              543.5,
+              439
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              543.5,
+              369.5
+            ],
+            [
+              565.5,
+              369.5
+            ],
+            [
+              565.5,
+              323
+            ],
+            [
+              543.5,
+              323
+            ],
+            [
+              543.5,
+              369.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              526,
+              578.5
+            ],
+            [
+              565.5,
+              578.5
+            ],
+            [
+              565.5,
+              554.5
+            ],
+            [
+              559,
+              555.5
+            ],
+            [
+              559,
+              551
+            ],
+            [
+              539.5,
+              551
+            ],
+            [
+              539.5,
+              554.5
+            ],
+            [
+              526,
+              554.5
+            ],
+            [
+              526,
+              578.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 54",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              833,
+              281.5
+            ],
+            [
+              843.5,
+              281.5
+            ],
+            [
+              843.5,
+              276
+            ],
+            [
+              862.5,
+              276
+            ],
+            [
+              862.5,
+              231
+            ],
+            [
+              833,
+              231
+            ],
+            [
+              833,
+              281.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "警備員室",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "警備員室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              714.5,
+              232.5
+            ],
+            [
+              810.5,
+              232.5
+            ],
+            [
+              810.5,
+              157
+            ],
+            [
+              714.5,
+              157
+            ],
+            [
+              714.5,
+              232.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ミュージアム",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "ミュージアム,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              673.5,
+              273.5
+            ],
+            [
+              682.5,
+              273.5
+            ],
+            [
+              682.5,
+              260.5
+            ],
+            [
+              673.5,
+              260.5
+            ],
+            [
+              673.5,
+              273.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 54",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              673.5,
+              313.5
+            ],
+            [
+              691.5,
+              313.5
+            ],
+            [
+              691.5,
+              297.5
+            ],
+            [
+              673.5,
+              297.5
+            ],
+            [
+              673.5,
+              313.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "エレベーター",
+        "category": "エレベーター",
+        "floor": "Frame 54",
+        "figmaNodeName": "エレベーター,エレベーター"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              673.5,
+              552.5
+            ],
+            [
+              682.5,
+              552.5
+            ],
+            [
+              682.5,
+              538.5
+            ],
+            [
+              673.5,
+              538.5
+            ],
+            [
+              673.5,
+              552.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 54",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              224.5,
+              232
+            ],
+            [
+              650.5,
+              232
+            ],
+            [
+              650.5,
+              157
+            ],
+            [
+              224.5,
+              157
+            ],
+            [
+              224.5,
+              232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "情報ライブラリー",
+        "category": "施設",
+        "floor": "Frame 54",
+        "figmaNodeName": "情報ライブラリー,施設"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              577.5,
+              714.5
+            ],
+            [
+              650.5,
+              714.5
+            ],
+            [
+              650.5,
+              580.5
+            ],
+            [
+              577.5,
+              580.5
+            ],
+            [
+              577.5,
+              714.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "大講義室",
+        "category": "教室",
+        "floor": "Frame 54",
+        "figmaNodeName": "大講義室,教室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              575.5,
+              511.5
+            ],
+            [
+              650.5,
+              511.5
+            ],
+            [
+              650.5,
+              439
+            ],
+            [
+              575.5,
+              439
+            ],
+            [
+              575.5,
+              511.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "コンピュータ教室365",
+        "category": "教室",
+        "floor": "Frame 54",
+        "figmaNodeName": "コンピュータ教室365,教室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              575.5,
+              439
+            ],
+            [
+              650.5,
+              439
+            ],
+            [
+              650.5,
+              369
+            ],
+            [
+              575.5,
+              369
+            ],
+            [
+              575.5,
+              439
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "コンピュータ教室364",
+        "category": "教室",
+        "floor": "Frame 54",
+        "figmaNodeName": "コンピュータ教室364,教室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              575.5,
+              369
+            ],
+            [
+              650.5,
+              369
+            ],
+            [
+              650.5,
+              300.5
+            ],
+            [
+              575.5,
+              300.5
+            ],
+            [
+              575.5,
+              369
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "コンピュータ教室363",
+        "category": "教室",
+        "floor": "Frame 54",
+        "figmaNodeName": "コンピュータ教室363,教室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              575.5,
+              300.5
+            ],
+            [
+              623.5,
+              300.5
+            ],
+            [
+              623.5,
+              275.5
+            ],
+            [
+              575.5,
+              275.5
+            ],
+            [
+              575.5,
+              300.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 54",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              694.5
+            ],
+            [
+              534.5,
+              694.5
+            ],
+            [
+              534.5,
+              671
+            ],
+            [
+              505.5,
+              671
+            ],
+            [
+              505.5,
+              694.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室335",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室335,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              671
+            ],
+            [
+              543.5,
+              671
+            ],
+            [
+              543.5,
+              647.5
+            ],
+            [
+              505.5,
+              647.5
+            ],
+            [
+              505.5,
+              671
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室334",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室334,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              647.5
+            ],
+            [
+              543.5,
+              647.5
+            ],
+            [
+              543.5,
+              624
+            ],
+            [
+              505.5,
+              624
+            ],
+            [
+              505.5,
+              647.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室333",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室333,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              624
+            ],
+            [
+              543.5,
+              624
+            ],
+            [
+              543.5,
+              601
+            ],
+            [
+              505.5,
+              601
+            ],
+            [
+              505.5,
+              624
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室332",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室332,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              601
+            ],
+            [
+              543.5,
+              601
+            ],
+            [
+              543.5,
+              578.5
+            ],
+            [
+              505.5,
+              578.5
+            ],
+            [
+              505.5,
+              601
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室331",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室331,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              511.5
+            ],
+            [
+              543.5,
+              511.5
+            ],
+            [
+              543.5,
+              485
+            ],
+            [
+              505.5,
+              485
+            ],
+            [
+              505.5,
+              511.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室330",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室330,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              485
+            ],
+            [
+              543.5,
+              485
+            ],
+            [
+              543.5,
+              462
+            ],
+            [
+              505.5,
+              462
+            ],
+            [
+              505.5,
+              485
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室329",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室329,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              462
+            ],
+            [
+              543.5,
+              462
+            ],
+            [
+              543.5,
+              439
+            ],
+            [
+              505.5,
+              439
+            ],
+            [
+              505.5,
+              462
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室328",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室328,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              439
+            ],
+            [
+              543.5,
+              439
+            ],
+            [
+              543.5,
+              415
+            ],
+            [
+              505.5,
+              415
+            ],
+            [
+              505.5,
+              439
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室327",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室327,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              415
+            ],
+            [
+              543.5,
+              415
+            ],
+            [
+              543.5,
+              392
+            ],
+            [
+              505.5,
+              392
+            ],
+            [
+              505.5,
+              415
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室326",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室326,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              392
+            ],
+            [
+              543.5,
+              392
+            ],
+            [
+              543.5,
+              369.5
+            ],
+            [
+              505.5,
+              369.5
+            ],
+            [
+              505.5,
+              392
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室325",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室325,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              369.5
+            ],
+            [
+              543.5,
+              369.5
+            ],
+            [
+              543.5,
+              346
+            ],
+            [
+              505.5,
+              346
+            ],
+            [
+              505.5,
+              369.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室324",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室324,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              346
+            ],
+            [
+              543.5,
+              346
+            ],
+            [
+              543.5,
+              323
+            ],
+            [
+              505.5,
+              323
+            ],
+            [
+              505.5,
+              346
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室323",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室323,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              323
+            ],
+            [
+              543.5,
+              323
+            ],
+            [
+              543.5,
+              300.5
+            ],
+            [
+              505.5,
+              300.5
+            ],
+            [
+              505.5,
+              323
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "教員室322",
+        "category": "教員室",
+        "floor": "Frame 54",
+        "figmaNodeName": "教員室322,教員室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              505.5,
+              300.5
+            ],
+            [
+              543.5,
+              300.5
+            ],
+            [
+              543.5,
+              277.5
+            ],
+            [
+              505.5,
+              277.5
+            ],
+            [
+              505.5,
+              300.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "学科室",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "学科室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              534.5,
+              706.5
+            ],
+            [
+              565.5,
+              706.5
+            ],
+            [
+              565.5,
+              647.5
+            ],
+            [
+              543.5,
+              647.5
+            ],
+            [
+              543.5,
+              671
+            ],
+            [
+              534.5,
+              671
+            ],
+            [
+              534.5,
+              706.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "研究・実験室",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "研究・実験室,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              748.5,
+              281.5
+            ],
+            [
+              773.5,
+              281.5
+            ],
+            [
+              773.5,
+              248.5
+            ],
+            [
+              753.5,
+              248.5
+            ],
+            [
+              753.5,
+              273.5
+            ],
+            [
+              748.5,
+              273.5
+            ],
+            [
+              748.5,
+              281.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 54",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              735.5,
+              248.5
+            ],
+            [
+              751.5,
+              248.5
+            ],
+            [
+              751.5,
+              232.5
+            ],
+            [
+              735.5,
+              232.5
+            ],
+            [
+              735.5,
+              248.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 54",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              714.5,
+              281.5
+            ],
+            [
+              739.5,
+              281.5
+            ],
+            [
+              739.5,
+              273.5
+            ],
+            [
+              753.5,
+              273.5
+            ],
+            [
+              753.5,
+              248.5
+            ],
+            [
+              714.5,
+              248.5
+            ],
+            [
+              714.5,
+              281.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 54",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              862.5,
+              439.5
+            ],
+            [
+              714,
+              439.5
+            ],
+            [
+              714,
+              370.5
+            ],
+            [
+              862.5,
+              370.5
+            ],
+            [
+              862.5,
+              439.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "エレクトロニクス工房",
+        "category": "教室",
+        "floor": "Frame 54",
+        "figmaNodeName": "エレクトロニクス工房,教室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              714,
+              370.5
+            ],
+            [
+              784.5,
+              370.5
+            ],
+            [
+              784.5,
+              297.5
+            ],
+            [
+              714,
+              297.5
+            ],
+            [
+              714,
+              370.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "グラフィック工房",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "グラフィック工房,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              784.5,
+              370.5
+            ],
+            [
+              834,
+              370.5
+            ],
+            [
+              834,
+              313.5
+            ],
+            [
+              837,
+              313.5
+            ],
+            [
+              837,
+              297.5
+            ],
+            [
+              784.5,
+              297.5
+            ],
+            [
+              784.5,
+              370.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "スタジオ",
+        "category": "施設",
+        "floor": "Frame 54",
+        "figmaNodeName": "スタジオ,施設"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              834,
+              370.5
+            ],
+            [
+              862.5,
+              370.5
+            ],
+            [
+              862.5,
+              298
+            ],
+            [
+              837.5,
+              298
+            ],
+            [
+              837.5,
+              314
+            ],
+            [
+              834,
+              314
+            ],
+            [
+              834,
+              370.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "医務室",
+        "category": "その他",
+        "floor": "Frame 54",
+        "figmaNodeName": "医務室,その他"
       }
     },
     {
@@ -268,60 +4332,24 @@
         "coordinates": [
           [
             [
-              226.5,
-              718.5
+              714,
+              721
             ],
             [
-              930,
-              718.5
+              714,
+              580
             ],
             [
-              930,
-              157
+              933,
+              580
             ],
             [
-              226.5,
-              157
+              933,
+              721
             ],
             [
-              226.5,
-              718.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "外枠3",
-        "category": "枠",
-        "floor": "Frame 54",
-        "figmaNodeName": "外枠3,枠"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              714.5,
-              716.5
-            ],
-            [
-              714.5,
-              580.5
-            ],
-            [
-              929.5,
-              580.5
-            ],
-            [
-              929.5,
-              716.5
-            ],
-            [
-              714.5,
-              716.5
+              714,
+              721
             ]
           ]
         ]
@@ -331,6 +4359,222 @@
         "category": "施設",
         "floor": "Frame 54",
         "figmaNodeName": "体育館,施設"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              859,
+              579.5
+            ],
+            [
+              933,
+              579.5
+            ],
+            [
+              933,
+              505.5
+            ],
+            [
+              859,
+              505.5
+            ],
+            [
+              859,
+              579.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "トレーニング室",
+        "category": "施設",
+        "floor": "Frame 54",
+        "figmaNodeName": "トレーニング室,施設"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              802.5,
+              580
+            ],
+            [
+              828.5,
+              580
+            ],
+            [
+              828.5,
+              541.5
+            ],
+            [
+              802.5,
+              541.5
+            ],
+            [
+              802.5,
+              580
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 54",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              828.5,
+              580
+            ],
+            [
+              859,
+              580
+            ],
+            [
+              859,
+              541.5
+            ],
+            [
+              828.5,
+              541.5
+            ],
+            [
+              828.5,
+              580
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 54",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              802.5,
+              541.5
+            ],
+            [
+              821.5,
+              541.5
+            ],
+            [
+              821.5,
+              526.5
+            ],
+            [
+              802.5,
+              526.5
+            ],
+            [
+              802.5,
+              541.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "WC",
+        "category": "トイレ",
+        "floor": "Frame 54",
+        "figmaNodeName": "WC,トイレ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              788.5,
+              551.5
+            ],
+            [
+              795.5,
+              551.5
+            ],
+            [
+              795.5,
+              541.5
+            ],
+            [
+              788.5,
+              541.5
+            ],
+            [
+              788.5,
+              551.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 54",
+        "figmaNodeName": "階段,階段"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              447.5,
+              248.5
+            ],
+            [
+              493,
+              248.5
+            ],
+            [
+              493,
+              232.5
+            ],
+            [
+              447.5,
+              232.5
+            ],
+            [
+              447.5,
+              248.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "階段",
+        "category": "階段",
+        "floor": "Frame 54",
+        "figmaNodeName": "階段,階段"
       }
     },
     {
@@ -365,7 +4609,7 @@
       "properties": {
         "name": "エレベーター4",
         "category": "エレベーター",
-        "floor": "Frame 55",
+        "floor": "Frame 56",
         "figmaNodeName": "エレベーター4,エレベーター"
       }
     },
@@ -401,7 +4645,7 @@
       "properties": {
         "name": "エレベーター4",
         "category": "エレベーター",
-        "floor": "Frame 52",
+        "floor": "Frame 55",
         "figmaNodeName": "エレベーター4,エレベーター"
       }
     }
