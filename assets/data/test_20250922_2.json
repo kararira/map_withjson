@@ -1,0 +1,409 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              333.5,
+              287.5
+            ],
+            [
+              348.5,
+              287.5
+            ],
+            [
+              348.5,
+              272.5
+            ],
+            [
+              333.5,
+              272.5
+            ],
+            [
+              333.5,
+              287.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "エレベーター1",
+        "category": "エレベーター",
+        "floor": "Frame 52",
+        "figmaNodeName": "エレベーター1,エレベーター"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              228.5,
+              701.5
+            ],
+            [
+              437,
+              701.5
+            ],
+            [
+              437,
+              254.5
+            ],
+            [
+              505.5,
+              254.5
+            ],
+            [
+              505.5,
+              163.5
+            ],
+            [
+              228.5,
+              163.5
+            ],
+            [
+              228.5,
+              701.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "外枠1",
+        "category": "枠",
+        "floor": "Frame 52",
+        "figmaNodeName": "外枠1,枠"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              230,
+              567
+            ],
+            [
+              302.5,
+              567
+            ],
+            [
+              302.5,
+              700
+            ],
+            [
+              230,
+              700
+            ],
+            [
+              230,
+              567
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "アトリエ",
+        "category": "教室",
+        "floor": "Frame 52",
+        "figmaNodeName": "アトリエ,教室"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              333.5,
+              287.5
+            ],
+            [
+              348.5,
+              287.5
+            ],
+            [
+              348.5,
+              272.5
+            ],
+            [
+              333.5,
+              272.5
+            ],
+            [
+              333.5,
+              287.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "エレベーター2",
+        "category": "エレベーター",
+        "floor": "Frame 53",
+        "figmaNodeName": "エレベーター2,エレベーター"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              227.5,
+              707.5
+            ],
+            [
+              504.5,
+              707.5
+            ],
+            [
+              504.5,
+              161.5
+            ],
+            [
+              227.5,
+              161.5
+            ],
+            [
+              227.5,
+              707.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "外枠2",
+        "category": "枠",
+        "floor": "Frame 53",
+        "figmaNodeName": "外枠2,枠"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              360,
+              502
+            ],
+            [
+              431.5,
+              502
+            ],
+            [
+              431.5,
+              298
+            ],
+            [
+              360,
+              298
+            ],
+            [
+              360,
+              502
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "スタジオ",
+        "category": "その他",
+        "floor": "Frame 53",
+        "figmaNodeName": "スタジオ,その他"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              333.5,
+              272.5
+            ],
+            [
+              348.5,
+              272.5
+            ],
+            [
+              348.5,
+              287.5
+            ],
+            [
+              333.5,
+              287.5
+            ],
+            [
+              333.5,
+              272.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "エレベーター3",
+        "category": "エレベーター",
+        "floor": "Frame 54",
+        "figmaNodeName": "エレベーター3,エレベーター"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              226.5,
+              718.5
+            ],
+            [
+              930,
+              718.5
+            ],
+            [
+              930,
+              157
+            ],
+            [
+              226.5,
+              157
+            ],
+            [
+              226.5,
+              718.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "外枠3",
+        "category": "枠",
+        "floor": "Frame 54",
+        "figmaNodeName": "外枠3,枠"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              714.5,
+              716.5
+            ],
+            [
+              714.5,
+              580.5
+            ],
+            [
+              929.5,
+              580.5
+            ],
+            [
+              929.5,
+              716.5
+            ],
+            [
+              714.5,
+              716.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "体育館",
+        "category": "施設",
+        "floor": "Frame 54",
+        "figmaNodeName": "体育館,施設"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.5,
+              176.5
+            ],
+            [
+              153.5,
+              176.5
+            ],
+            [
+              153.5,
+              161.5
+            ],
+            [
+              138.5,
+              161.5
+            ],
+            [
+              138.5,
+              176.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "エレベーター4",
+        "category": "エレベーター",
+        "floor": "Frame 55",
+        "figmaNodeName": "エレベーター4,エレベーター"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138,
+              148
+            ],
+            [
+              153,
+              148
+            ],
+            [
+              153,
+              133
+            ],
+            [
+              138,
+              133
+            ],
+            [
+              138,
+              148
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "エレベーター4",
+        "category": "エレベーター",
+        "floor": "Frame 52",
+        "figmaNodeName": "エレベーター4,エレベーター"
+      }
+    }
+  ]
+}

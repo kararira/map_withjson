@@ -4,30 +4,30 @@
     
     <div class="mt-4 space-x-2">
       <button
-        @click="setFloor(1)"
+        @click="setFloor('Frame 52')"
         :class="{
-            'bg-blue-500 text-white': currentFloor === 1,
-            'bg-gray-200 text-gray-800': currentFloor !== 1
+            'bg-blue-500 text-white': currentFloor === 'Frame 52',
+            'bg-gray-200 text-gray-800': currentFloor !== 'Frame 52'
         }"
         class="px-4 py-2 rounded-md font-bold transition-colors duration-200"
         >
         1F
       </button>
       <button
-        @click="setFloor(2)"
+        @click="setFloor('Frame 53')"
         :class="{
-            'bg-blue-500 text-white': currentFloor === 2,
-            'bg-gray-200 text-gray-800': currentFloor !== 2
+            'bg-blue-500 text-white': currentFloor === 'Frame 53',
+            'bg-gray-200 text-gray-800': currentFloor !== 'Frame 53'
         }"
         class="px-4 py-2 rounded-md font-bold transition-colors duration-200"
         >
         2F
       </button>
       <button
-        @click="setFloor(3)"
+        @click="setFloor('Frame 54')"
         :class="{
-            'bg-blue-500 text-white': currentFloor === 3,
-            'bg-gray-200 text-gray-800': currentFloor !== 3
+            'bg-blue-500 text-white': currentFloor === 'Frame 54',
+            'bg-gray-200 text-gray-800': currentFloor !== 'Frame 54'
         }"
         class="px-4 py-2 rounded-md font-bold transition-colors duration-200"
         >
@@ -43,15 +43,15 @@ import 'leaflet/dist/leaflet.css';
 import type { Map, GeoJSON } from 'leaflet';
 
 // データを直接インポート (ファイルパスと拡張子を.jsonに変更)
-import indoorMapGeoJson from '../../assets/data/test_20250922.json';
+import indoorMapGeoJson from '../../assets/data/test_20250922_2.json';
 
 let mapInstance: Map | null = null;
 let geoJsonLayer: GeoJSON | null = null;
 
 // GeoJSONデータに合わせてデフォルトを3階に設定
-const currentFloor = ref(3);
+const currentFloor = ref("Frame 52");
 
-const getFeaturesByFloor = (floor: number) => {
+const getFeaturesByFloor = (floor: string) => {
   return {
     ...indoorMapGeoJson,
     features: indoorMapGeoJson.features.filter(
@@ -60,7 +60,7 @@ const getFeaturesByFloor = (floor: number) => {
   };
 };
 
-const updateMap = async (floor: number) => {
+const updateMap = async (floor: string) => {
   if (!mapInstance) return;
 
   if (geoJsonLayer) {
@@ -124,7 +124,7 @@ onUnmounted(() => {
   }
 });
 
-const setFloor = (floorNumber: number) => {
+const setFloor = (floorNumber: string) => {
   currentFloor.value = floorNumber;
 };
 
