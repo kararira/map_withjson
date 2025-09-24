@@ -4,34 +4,16 @@
     
     <div class="mt-4 space-x-2">
       <button
-        @click="setFloor('Frame 52')"
+        v-for="floorName in floorStrs"
+        :key="floorName"
+        @click='setFloor(floorName)'
         :class="{
-            'bg-blue-500 text-white': currentFloor === 'Frame 52',
-            'bg-gray-200 text-gray-800': currentFloor !== 'Frame 52'
+            'bg-blue-500 text-white': currentFloor === floorName,
+            'bg-gray-200 text-gray-800': currentFloor !== floorName
         }"
         class="px-4 py-2 rounded-md font-bold transition-colors duration-200"
         >
-        1F
-      </button>
-      <button
-        @click="setFloor('Frame 53')"
-        :class="{
-            'bg-blue-500 text-white': currentFloor === 'Frame 53',
-            'bg-gray-200 text-gray-800': currentFloor !== 'Frame 53'
-        }"
-        class="px-4 py-2 rounded-md font-bold transition-colors duration-200"
-        >
-        2F
-      </button>
-      <button
-        @click="setFloor('Frame 54')"
-        :class="{
-            'bg-blue-500 text-white': currentFloor === 'Frame 54',
-            'bg-gray-200 text-gray-800': currentFloor !== 'Frame 54'
-        }"
-        class="px-4 py-2 rounded-md font-bold transition-colors duration-200"
-        >
-        3F
+        {{floorName}}
       </button>
     </div>
   </div>
@@ -41,15 +23,24 @@
 import { onMounted, onUnmounted, ref, watch } from 'vue';
 import 'leaflet/dist/leaflet.css';
 import type { Map, GeoJSON } from 'leaflet';
+import * as turf from '@turf/turf';
 
 // データを直接インポート (ファイルパスと拡張子を.jsonに変更)
-import indoorMapGeoJson from '../../assets/data/test_20250922_2.json';
+import indoorMapGeoJson from '../../assets/data/test_20250924.json';
+
+const floorStrs = [
+  "Frame 154",
+  "Frame 156",
+  "Frame 157",
+  "Frame 158",
+  "Frame 159"
+]
 
 let mapInstance: Map | null = null;
 let geoJsonLayer: GeoJSON | null = null;
 
 // GeoJSONデータに合わせてデフォルトを3階に設定
-const currentFloor = ref("Frame 52");
+const currentFloor = ref("Frame 154");
 
 const getFeaturesByFloor = (floor: string) => {
   return {
